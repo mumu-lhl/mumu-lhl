@@ -2,7 +2,7 @@
 
 A primary school student who understands computers.
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=mumu-lhl)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=mumu-lhl&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api?username=mumu-lhl&theme=dark&show_icons=true&count_private=true)
 
