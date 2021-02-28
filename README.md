@@ -1,4 +1,4 @@
-## About
+## Introduction
 
 A primary school student who understands computers.
 
