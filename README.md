@@ -2,15 +2,13 @@
 
 A primary school student who understands computers.
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=mumu-lhl&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mumu-lhl&theme=dark&cache_seconds=1800&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=mumu-lhl&theme=dark&show_icons=true&count_private=true)
+![mumu-lhl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumu-lhl&theme=dark&show_icons=true&count_private=true&cache_seconds=1800&hide_border=true)
 
 ## Praise
 
-I really want to rely on my own efforts to buy a computer instead of relying on my parents. You can appreciate me in the following ways:
-
-![WeChat](https://7.dusays.com/2021/02/19/8a806d0c79fbc.png)
+![WeChat Pay](https://7.dusays.com/2021/02/19/8a806d0c79fbc.png)
 
 BTC: `3AdZgHmv5YC4wpZrF95JJvcGVQW33uAqrM`
 
