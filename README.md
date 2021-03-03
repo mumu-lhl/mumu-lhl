@@ -4,7 +4,7 @@ A primary school student who understands computers.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mumu-lhl&theme=dark&cache_seconds=1800&hide_border=true)
 
-![mumu-lhl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumu-lhl&theme=dark&show_icons=true&count_private=true&cache_seconds=1800&hide_border=true)
+![mumu-lhl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumu-lhl&theme=dark&show_icons=true&count_private=true&cache_seconds=1800&hide_border=true&include_all_commits=true)
 
 ## Praise
 
