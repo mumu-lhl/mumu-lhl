@@ -26,7 +26,7 @@ A primary school student who understands computers.
 
 ## Praise
 
-![WeChat Pay](https://7.dusays.com/2021/02/19/8a806d0c79fbc.png)
+![WeChat Pay](https://7.dusays.com/2021/03/18/f5ec4c5cbd1af.webp)
 
 BTC: `3AdZgHmv5YC4wpZrF95JJvcGVQW33uAqrM`
 
