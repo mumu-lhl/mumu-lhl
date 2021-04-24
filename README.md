@@ -31,7 +31,3 @@ A primary school student who understands computers.
 BTC: `3AdZgHmv5YC4wpZrF95JJvcGVQW33uAqrM`
 
 ETH: `0xf765Ad4dA201194BbBe779737c676D36D85aAAEf`
-
-BCH: `1Q3JVB5b6BC613VDb55mh3F1NUBJwhfBKW`
-
-LTC: `LV3GK72cGytc64Dpodp8v1XjvRKwM58tRp`
