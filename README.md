@@ -24,10 +24,9 @@ A primary school student who understands computers.
 [![QQ Mail](https://img.shields.io/badge/Mail-mumu__lhl%40qq.com-yellow?logo=Mail.Ru)](mailto:mumu_lhl@qq.com)
 [![Tutanota Mail](https://img.shields.io/badge/Mail-mumu--lhl%40tuta.io-red?logo=Mail.Ru)](mailto:mumu-lhl@tuta.io)
 
-## Praise
+## Sponsor
+
+Your sponsorship can inspire my development!
 
 ![WeChat Pay](https://7.dusays.com/2021/03/18/f5ec4c5cbd1af.webp)
-
-BTC: `3AdZgHmv5YC4wpZrF95JJvcGVQW33uAqrM`
-
-ETH: `0xf765Ad4dA201194BbBe779737c676D36D85aAAEf`
+![AliPay](https://7.dusays.com/2021/05/04/7f761df414a68.webp)
