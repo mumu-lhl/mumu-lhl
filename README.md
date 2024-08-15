@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 就读于 XXX 市第 XXX 高中 🏫<br>🥬 菜鸟 🐦<br>🎵 喜欢听伴奏 🎵
+🏫 就读于 XXX 市第 XXX 高中 🏫<br>🥬 菜鸟 🐦
 
 
 ## 🌐 Socials:
