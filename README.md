@@ -1,5 +1,6 @@
 # 💫 About Me:
-🏫 就读于 XXX 市第 XXX 高中 🏫<br>🥬 菜鸟 🐦
+* Developer✨
+* Blogger🖊️
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mumu-lhl&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
